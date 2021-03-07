@@ -1,0 +1,17 @@
+#toBeDevoured{
+    width: 40%;
+    
+    display:inline-block;
+}
+#devoured{
+    display:inline-block;
+}
+body{
+    background-color: rgb(251, 255, 0);
+}
+.butOne {
+    font-size: large;
+}
+.burger{
+    padding: 0.5em;
+}
