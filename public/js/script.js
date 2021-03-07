@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
         body: JSON.stringify(newBurger),
       }).then(() => {
         // Empty the form
-        document.getElementById('newBurger').value = 'a';
+        document.getElementById('newBurger').value = '';
 
         // Reload the page so the user can see the new quote
         console.log('New burger added!');

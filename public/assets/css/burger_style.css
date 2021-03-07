@@ -1,10 +1,16 @@
-#toBeDevoured{
-    width: 40%;
-    
-    display:inline-block;
+h1 {
+    color:red;
+    text-align:center
 }
 #devoured{
+    position: relative;
     display:inline-block;
+}
+#create-form{
+    text-align: center;
+}
+#addBurger{
+    margin-top: 1em;
 }
 body{
     background-color: rgb(251, 255, 0);
