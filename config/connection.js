@@ -4,9 +4,9 @@ const connection = mysql.createConnection({
   host: 'localhost',
   port: 3306,
   user: 'root',
-  // NOTE: Be sure to add your MySQL password here!
   password: 'Mypassword',
   database: 'burger_db',
+  socketPath: '/var/run/mysqld/mysqld.sock'
 });
 
 // Make connection.
