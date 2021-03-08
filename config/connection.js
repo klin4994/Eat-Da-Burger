@@ -19,4 +19,3 @@ connection.connect((err) => {
 
 // Export connection for our ORM to use.
 module.exports = connection;
-bf711484352d37:8fe7d9fe@us-cdbr-east-03.cleardb.com/heroku_51b5acce9e83132?reconnect=true
