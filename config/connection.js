@@ -19,3 +19,4 @@ connection.connect((err) => {
 
 // Export connection for our ORM to use.
 module.exports = connection;
+--host=us-cdbr-east-03.cleardb.com --user=bf711484352d37 --password=8fe7d9fe -- reconnect heroku_51b5acce9e83132
