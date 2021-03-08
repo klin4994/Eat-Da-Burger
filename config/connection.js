@@ -5,8 +5,7 @@ const connection = mysql.createConnection({
   port: 3306,
   user: 'root',
   password: 'Mypassword',
-  database: 'burger_db',
-  socketPath: '/var/run/mysqld/mysqld.sock'
+  database: 'burger_db'
 });
 
 // Make connection.
