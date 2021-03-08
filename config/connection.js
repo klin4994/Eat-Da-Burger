@@ -8,7 +8,7 @@ const connection = mysql.createConnection({
   database: 'heroku_51b5acce9e83132'
 });
 
-// Make connection.
+// Make connection
 connection.connect((err) => {
   if (err) {
     console.error(`error connecting: ${err.stack}`);
