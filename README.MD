@@ -22,7 +22,7 @@
 <h1>Usage</h1>
 <p>Application screenshot:</p>
 <img src = "public\assets\img\App_screenshot.PNG" alt ="Application Screenshot">
-<p>Application link: https://enigmatic-ocean-73260.herokuapp.com/</p>
+<p>Application link: https://burger-eater-kl.herokuapp.com/</p>
 <br>
 <h1>Contributing</h1>
 <p>N/A</p>
